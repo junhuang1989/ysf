@@ -1,0 +1,14 @@
+{
+  "name": "ysf",
+  "description": "云闪付compsoer",
+  "type": "library",
+  "version": "v1.0",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ysf\\": "src"
+    }
+  }
+}
